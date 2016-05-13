@@ -1,0 +1,10 @@
+PODS:
+  - HZAdditions (1.0.4)
+
+DEPENDENCIES:
+  - HZAdditions (~> 1.0.4)
+
+SPEC CHECKSUMS:
+  HZAdditions: d72e819d84871b91abe8cd2579abed785cfaeb70
+
+COCOAPODS: 0.39.0
